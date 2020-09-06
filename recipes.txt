@@ -6,3 +6,6 @@ welcome
 pasta
 kheer
 chicken fry
+
+
+thank you
